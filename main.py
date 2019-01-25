@@ -38,8 +38,7 @@ while (stop == False):
         print('before ze collision')
         print('velocity b: '+str(vb_p))
         print('velocity a: '+str(va_p))
-
-    if debug == True:
+        
         print('after ze collision')
         print('velocity b: '+str(vb_c))
         print('velocity a: '+str(va_c))
